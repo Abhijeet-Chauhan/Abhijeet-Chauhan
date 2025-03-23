@@ -60,7 +60,7 @@
 
 ###
 
-<img align="right" height="640" src="https://i.imgflip.com/9ocosk.gif"/>
+<img align="right" height="320" src="https://i.imgflip.com/9ocosk.gif"/>
 
 ###
 
