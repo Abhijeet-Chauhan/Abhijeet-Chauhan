@@ -62,7 +62,7 @@
 
 <!-- <img align="right" height="320" src="https://i.imgflip.com/9ocosk.gif"/> -->
 <img align="right" height="320" src="./image.webp"/>
-###
+
 
 <p align="left">🔭 I’m a Data Scientist and MLOps Engineer  <br>🌱 I’m currently learning AI and Java Full Stack Development  <br>💬 Ask me about Data Science, Machine Learning, MLOps, and AI-powered solutions  <br>⚡ Fun fact: I love solving real-world problems with AI and automation!  <br>🚀 Check out my projects and let's collaborate!</p>
 
