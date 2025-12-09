@@ -56,14 +56,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhijeet-chauhan&theme=dracula&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 🚀 Highlight Projects
 
 Here are some AI/ML + MLOps projects you can add as you upload them:
@@ -83,8 +75,6 @@ Here are some AI/ML + MLOps projects you can add as you upload them:
 ### 🔹 **4. Customer Churn Prediction Pipeline**
 - Feature store → model registry → batch/real-time inference  
 - Tools: **MLflow, Airflow, AWS SageMaker**
-
-👉 Want me to generate full project descriptions + folder structures? Just say **“Generate project templates”**.
 
 ---
 
